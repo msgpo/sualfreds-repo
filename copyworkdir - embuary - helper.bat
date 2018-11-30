@@ -14,5 +14,3 @@ del /q /s %target%\*.psd
 del /q /s %target%\*.mo
 del /q /s %target%\*.gitignore
 rd /S /Q %target%\.git
-TIMEOUT /T 4 /NOBREAK
-repoupdate.bat

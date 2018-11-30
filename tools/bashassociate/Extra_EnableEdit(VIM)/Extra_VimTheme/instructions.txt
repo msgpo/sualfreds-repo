@@ -1,0 +1,4 @@
+[Using Solarized (buggy edition) by default]
+
+Unpack this folder and execute theme_install.sh (via desired distro)
+Save your theme as theme.vim to apply it (Vim themes on WSL might be buggy, PM me if you find a solution)
