@@ -295,7 +295,7 @@
     </extension>
 </addon>
 
-<addon id="skin.embuary" version="17.5.6a" name="Embuary (Krypton)" provider-name="sualfred">
+<addon id="skin.embuary" version="17.5.7" name="Embuary (Krypton)" provider-name="sualfred">
 	<requires>
 		<import addon="xbmc.gui" version="5.12.0"/>
 		<import addon="script.embuary.helper" version="0.1.7"/>
@@ -326,7 +326,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.embuary-leia" version="18.5.6a" name="Embuary (Leia)" provider-name="sualfred">
+<addon id="skin.embuary-leia" version="18.5.7" name="Embuary (Leia)" provider-name="sualfred">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0"/>
 		<import addon="script.embuary.helper" version="0.1.7"/>
